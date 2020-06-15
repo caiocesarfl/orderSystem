@@ -1,0 +1,11 @@
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\bin\Debug\netcoreapp2.1\OrderSystem.deps.json
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\bin\Debug\netcoreapp2.1\OrderSystem.runtimeconfig.json
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\bin\Debug\netcoreapp2.1\OrderSystem.runtimeconfig.dev.json
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\bin\Debug\netcoreapp2.1\OrderSystem.dll
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\bin\Debug\netcoreapp2.1\OrderSystem.pdb
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\obj\Debug\netcoreapp2.1\OrderSystem.csprojAssemblyReference.cache
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\obj\Debug\netcoreapp2.1\OrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\obj\Debug\netcoreapp2.1\OrderSystem.AssemblyInfoInputs.cache
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\obj\Debug\netcoreapp2.1\OrderSystem.AssemblyInfo.cs
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\obj\Debug\netcoreapp2.1\OrderSystem.dll
+C:\Users\Dell\source\poc\OrderSystem\OrderSystem\obj\Debug\netcoreapp2.1\OrderSystem.pdb
